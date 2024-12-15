@@ -27,6 +27,7 @@ This project is a **web-based real-time chat application** built using **Laravel
 
 ## Screenshot 📸
 ![Chat Interface](img.png)
+
 _Screenshot of the chat interface_
 
 ## License 📝
